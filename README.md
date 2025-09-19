@@ -1,3 +1,3 @@
 Projeto para android:
-Marcar pontos GPS em terreno para compilar perímetro  
+Marcar pontos GPS de terreno para compilar perímetro  
 
