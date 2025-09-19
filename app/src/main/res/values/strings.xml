@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GPSPlotter</string>
+    <string name="button1">Marcar 1</string>
+    <string name="button2">Marcar 2</string>
+
+    <string name="gps_location">Propriadade meus Pontos Gps</string>
+    <string name="textcurrLong">Current Longitude:</string>
+    <string name="textcurrLat">Current Latitude  :</string>
+    <string name="textLong1">Longitude:</string>
+    <string name="textLat1">Latitude  :</string>
+    <string name="textLong2">Longitude:</string>
+    <string name="textLat2">Latitude  :</string>
+    <string name="textDist1">Distance 1_2:</string>
+    <string name="button3">Marcar 3</string>
+    <string name="textlong3">Longitude:</string>
+    <string name="textLat3">Latitude  :</string>
+    <string name="button4">Marcar 4</string>
+    <string name="textLong4">Longitude:</string>
+    <string name="textLat4">Latitude  :</string>
+    <string name="textDist2">Distance 2_3:</string>
+    <string name="textDist3">Distance 3_4:</string>
+    <string name="button5">Marcar 5</string>
+    <string name="textLong5">Longitude</string>
+    <string name="textLat5">Latitude</string>
+    <string name="textDist4">Distance 4_5:</string>
+
+
+</resources>
